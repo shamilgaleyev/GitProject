@@ -7,5 +7,7 @@ public class Main {
         Car2 car2 = new Car2();
         car2.v= "2.5";
         car2.year = "2024";
+        Car3 car3 = new Car3();
+        car3.popwer = "123";
     }
 }

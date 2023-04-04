@@ -6,6 +6,6 @@ public class Main {
         car.color="white";
         Car2 car2 = new Car2();
         car2.v= "2.5";
-        car2.year = 2023;
+        car2.year = "2024";
     }
 }
